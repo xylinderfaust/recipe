@@ -1,5 +1,3 @@
 # recipe
 
-Yo, this is my recipe!
-
-Making some more changes, and then will commit and push.
+This is a recipe for my daily breakfast smoothie.
