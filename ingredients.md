@@ -1,3 +1,5 @@
+Let's begin!
+
 ===BREAKFAST SMOOTHIE===
 
 1. Add banana
@@ -6,3 +8,5 @@
 4. Blend
 5. Enjoy
 
+
+Enjoy my recipe!
