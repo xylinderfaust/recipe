@@ -12,3 +12,5 @@ Let's begin!
 Enjoy my recipe!
 
 {{sensitive info! oops}}
+
+{{more sensitive info, oops!!}}
