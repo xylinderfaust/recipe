@@ -12,3 +12,5 @@ last line changed locally
 
 * It's a great way to start the day
 * Low fat, lots of protein and vitamins too!
+* Best of all, _it tastes great!_
+
