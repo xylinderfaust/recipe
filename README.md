@@ -9,3 +9,6 @@ last line changed locally
 # My Recipe
 
 ### About this recipe
+
+* It's a great way to start the day
+* Low fat, lots of protein and vitamins too!
