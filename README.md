@@ -14,3 +14,6 @@ last line changed locally
 * Low fat, lots of protein and vitamins too!
 * Best of all, _it tastes great!_
 
+Doesn't this look good?
+
+ ![An image of a smoothie](recipe.jpg)
